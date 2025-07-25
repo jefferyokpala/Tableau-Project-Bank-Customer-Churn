@@ -10,7 +10,7 @@ The objective of this data analysis project was to find customer behaviours that
 
 ## Data Source
 
-The dataset was obtained from Kaggle, and it can be found here. It contains information about a bank's customers and their behaviors. It has 17 columns and 10,000 rows.
+The dataset was obtained from Kaggle, and it can be found [here](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn). It contains information about a bank's customers and their behaviors. It has 17 columns and 10,000 rows.
 
 ## Tools
 
